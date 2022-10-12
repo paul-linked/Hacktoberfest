@@ -1,4 +1,4 @@
 # Hacktoberfest
-This repository containes 100 questions with codes in java.
+This repository containes 100 questions for java.
 
 Inspired by badal74
