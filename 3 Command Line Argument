@@ -1,0 +1,12 @@
+class main {
+  public static void main(String args[]) {
+    System.out.print("do you want samsung fridge?");
+    String yes = "Yes";
+    if (args[0].equals(yes)) {
+      System.out.print("cool me too");
+    } else {
+      System.out.print("i do not like you");
+      }
+    
+  }
+}
